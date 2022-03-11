@@ -2,7 +2,7 @@ import random
 from words import words
 word = random.choice(words)
 length = len(word)
-print(word)
+#print(word)
 print(f"The Word has {length} letters")
 letter_lst=list(word)
 print("* "*length)
