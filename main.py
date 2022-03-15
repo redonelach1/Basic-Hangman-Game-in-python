@@ -39,3 +39,5 @@ if (Lose_Flag==True):
     print("You Lost The Man Has died")
 else:
     print("\nWell Done You Found The Name :), The Man was released")
+
+#I Have No Damn Idea how this code works, but it does work. (atleast on pycharm xD)
